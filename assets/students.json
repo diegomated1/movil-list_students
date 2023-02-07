@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "fullname": "Diego Cardenas",
+        "carrera": "Ing. Sistemas e Informatica",
+        "promedio": 4.0
+    },{
+        "id": "2",
+        "fullname": "Mateo Sandoval",
+        "carrera": "Ing. Industrial",
+        "promedio": 4.5
+    },{
+        "id": "3",
+        "fullname": "Martha Rodriguez",
+        "carrera": "Derecho",
+        "promedio": 3.0
+    },{
+        "id": "4",
+        "fullname": "Javier Lozano",
+        "carrera": "Diseno grafico",
+        "promedio": 5.0
+    },{
+        "id": "5",
+        "fullname": "Alejandra Torres",
+        "carrera": "Comunicacion social",
+        "promedio": 2.9
+    },{
+        "id": "6",
+        "fullname": "Roberto Mendez",
+        "carrera": "Ing. Sistemas e Informatica",
+        "promedio": 3.8
+    },{
+        "id": "7",
+        "fullname": "Juan Guillermo",
+        "carrera": "Comunicacion social",
+        "promedio": 3.8
+    },{
+        "id": "8",
+        "fullname": "Maria Mendez",
+        "carrera": "Ing. Sistemas e Informatica",
+        "promedio": 3.8
+    }
+]
